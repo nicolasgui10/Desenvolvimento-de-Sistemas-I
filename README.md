@@ -15,4 +15,5 @@ em três módulos principais:
   
   • Gestão de vendas
   
+  
 As equipes devem desenvolver um software, aplicar práticas de modelagem, colaborar e se comunicar com todas as partes envolvidas.
